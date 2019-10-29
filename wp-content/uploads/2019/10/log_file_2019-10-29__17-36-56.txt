@@ -1,0 +1,20 @@
+
+---Downloaded files---
+The import files for: Intrinsic Dark Version were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wp-blog-2019
+Data file = C:\wamp64\www\wp-blog-2019/wp-content/uploads/2019/10/demo-content-import-file_2019-10-29__17-36-56.xml
+Widget file = C:\wamp64\www\wp-blog-2019/wp-content/uploads/2019/10/demo-widgets-import-file_2019-10-29__17-36-56.json
+Customizer file = C:\wamp64\www\wp-blog-2019/wp-content/uploads/2019/10/demo-customizer-import-file_2019-10-29__17-36-56.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
