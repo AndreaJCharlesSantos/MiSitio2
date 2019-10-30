@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wp-blog-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'a1d41cf0a91c9fd0d5465678477497ef60a3c9eb3229cec9' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -36,6 +36,7 @@ define( 'DB_CHARSET', 'utf8mb4' );
 
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
